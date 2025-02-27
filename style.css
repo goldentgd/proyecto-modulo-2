@@ -167,7 +167,7 @@ footer{
 }
 .gif-container {
     position: fixed;
-    top: 30rem;
+    top: 20rem;
     left: 80rem;
     width: 50%;
 }
@@ -291,7 +291,7 @@ footer{
     }
 .gif-container {
         top: 30rem;
-        left: 50rem;
+        left: 40rem;
     }
 }
 @media only screen and (max-width: 1000px){

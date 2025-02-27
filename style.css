@@ -167,7 +167,7 @@ footer{
 }
 .gif-container {
     position: fixed;
-    top: 30rem;
+    top: 65%;
     left: 80%;
     width: 50%;
 }
@@ -253,7 +253,7 @@ footer{
 }
 @media only screen and (max-width: 1800px){
     .gif-container {
-        top: 30rem;
+        top: 65%;
         left: 80%;
     }
 }
@@ -264,7 +264,7 @@ footer{
 }
 @media only screen and (max-width: 1400px){
     .gif-container {
-        top: 30rem;
+        top: 65%;
         left: 80%;
     }
 }
@@ -286,7 +286,7 @@ footer{
         border-radius: 10px 10px 0 0;
     }
     .gif-container {
-        top: 30rem;
+        top: 65%;
         left: 80%;
     }
     
@@ -333,7 +333,7 @@ footer{
         gap: 2rem;
     }
     .gif-container {
-        top: 30rem;
+        top: 65%;
         left: 80%;
     }
 
@@ -361,7 +361,7 @@ footer{
         width: 80%;
     }
     .gif-container {
-        top: 30rem;
+        top: 65%;
         left: 80%;
     }
 }
@@ -398,7 +398,7 @@ footer{
         width: 100%;
     }
     .gif-container {
-        top: 30rem;
+        top: 65%;
         left: 80%;
     }
 

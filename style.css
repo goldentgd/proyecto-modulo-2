@@ -285,9 +285,6 @@ footer{
         width: 100%;
         border-radius: 10px 10px 0 0;
     }
-    .gif-container img{
-        display: none;
-    }
 }
 @media only screen and (max-width: 1000px){
     header{
@@ -424,6 +421,9 @@ footer{
     .aside-panel h2{
         font-size: small;
         width: 100%;
+    }
+	.gif-container img{
+        display: none;
     }
 
 }

@@ -168,7 +168,7 @@ footer{
 .gif-container {
     position: fixed;
     top: 30rem;
-    left: 95rem;
+    left: 80rem;
     width: 50%;
 }
 .gif-container img {
@@ -261,6 +261,10 @@ footer{
     .card{
         width: 80%;
     }
+.gif-container {
+        top: 30rem;
+        left: 70rem;
+    }
 }
 @media only screen and (max-width: 1400px){
     .gif-container {
@@ -284,6 +288,10 @@ footer{
     .card-image-container img{
         width: 100%;
         border-radius: 10px 10px 0 0;
+    }
+.gif-container {
+        top: 30rem;
+        left: 50rem;
     }
 }
 @media only screen and (max-width: 1000px){
@@ -327,6 +335,10 @@ footer{
         width: 100%;
         gap: 2rem;
     }
+.gif-container {
+        top: 30rem;
+        left: 40rem;
+    }
 
 }
 @media ONLY screen and (max-width: 770px){
@@ -350,6 +362,10 @@ footer{
     }
     .aside-panel{
         width: 80%;
+    }
+.gif-container {
+        top: 30rem;
+        left: 30rem;
     }
 }
 @media only screen and (max-width: 600px){
@@ -383,6 +399,10 @@ footer{
     .aside-panel h2{
         font-size: small;
         width: 100%;
+    }
+.gif-container {
+        top: 30rem;
+        left: 20rem;
     }
 
 }

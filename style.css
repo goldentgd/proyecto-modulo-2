@@ -167,8 +167,8 @@ footer{
 }
 .gif-container {
     position: fixed;
-    top: 20rem;
-    left: 80rem;
+    top: 30rem;
+    left: 80%;
     width: 50%;
 }
 .gif-container img {
@@ -253,23 +253,19 @@ footer{
 }
 @media only screen and (max-width: 1800px){
     .gif-container {
-        top: 15rem;
-        left: 75rem;
+        top: 30rem;
+        left: 80%;
     }
 }
 @media only screen and (max-width: 1600px){
     .card{
         width: 80%;
     }
-.gif-container {
-        top: 20rem;
-        left: 70rem;
-    }
 }
 @media only screen and (max-width: 1400px){
     .gif-container {
-        top: 25rem;
-        left: 65rem;
+        top: 30rem;
+        left: 80%;
     }
 }
 @media only screen and (max-width: 1300px){
@@ -289,10 +285,11 @@ footer{
         width: 100%;
         border-radius: 10px 10px 0 0;
     }
-.gif-container {
-        top: 25rem;
-        left: 55rem;
+    .gif-container {
+        top: 30rem;
+        left: 80%;
     }
+    
 }
 @media only screen and (max-width: 1000px){
     header{
@@ -335,9 +332,9 @@ footer{
         width: 100%;
         gap: 2rem;
     }
-.gif-container {
+    .gif-container {
         top: 30rem;
-        left: 40rem;
+        left: 80%;
     }
 
 }
@@ -363,9 +360,9 @@ footer{
     .aside-panel{
         width: 80%;
     }
-.gif-container {
+    .gif-container {
         top: 30rem;
-        left: 30rem;
+        left: 80%;
     }
 }
 @media only screen and (max-width: 600px){
@@ -400,16 +397,11 @@ footer{
         font-size: small;
         width: 100%;
     }
-.gif-container {
+    .gif-container {
         top: 30rem;
-        left: 20rem;
+        left: 80%;
     }
 
-}
-@media only screen and (max-width: 410px){
-    .gif-container img{
-        display: none;
-    }
 }
 @media only screen and (max-width: 320px){
     .search-form{
@@ -447,7 +439,8 @@ footer{
         font-size: small;
         width: 100%;
     }
+    .gif-container img{
+        display: none;
+    }
 
 }
-
-	
